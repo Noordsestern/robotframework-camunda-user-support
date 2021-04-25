@@ -13,3 +13,6 @@ Robot Framework forum has a board for questions around camunda: https://forum.ro
 
 ### GitHub Issue Board
 Open a question at the issue board of this GitHub repositiory.
+
+## How to learn Robot Framework
+The best way to learn Robot Framework is by writing your own first Test Case or Task. You can find starting material here: https://robotframework.org/#learning
